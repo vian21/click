@@ -25,3 +25,6 @@ Introducing: ablm - The Online Metronome inspired by Ableton
 Just go [here](https://franeklubi.github.io/ablm/).
 
 Have a great time!
+
+Links:  
+- https://stackoverflow.com/questions/43794356/html5-volume-increase-past-100
